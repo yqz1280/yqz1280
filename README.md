@@ -17,6 +17,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Find me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Quirogastyle=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/omar-quiroga-6a757a1a9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Quiroga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/omar-quiroga-6a757a1a9)
 
 
