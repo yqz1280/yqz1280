@@ -18,6 +18,6 @@
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar_quiroga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/omar-quiroga-6a757a1a9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar-quiroga-6a757a1a9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/omar-quiroga-6a757a1a9)
 
 
