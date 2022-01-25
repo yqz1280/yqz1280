@@ -4,7 +4,7 @@
 
 <h1 align="center">Hola 👋, Soy <a href=https://www.linkedin.com/in/omar-quiroga-6a757a1a9 target="_blank">Omar Quiroga </a></h1>
 
-
+<h3>Lenguajes & herramientas:</h3>
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
