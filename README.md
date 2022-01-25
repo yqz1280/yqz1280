@@ -17,7 +17,8 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="center">Encuéntrame en:</h3>
+<h3>Encuéntrame en:</h3>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Quiroga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/omar-quiroga-6a757a1a9)
 
 
