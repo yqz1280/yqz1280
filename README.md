@@ -1,4 +1,5 @@
-![https://github.com/yqz1280](https://raw.githubusercontent.com/yqz1280/yqz1280/master/code.gif)
+
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/yqz1280/yqz1280/master/code.gif" width="700" height="320" style="max-width:100%;">
 
 
 #### Hello, my name is Omar Quiroga Zárate
