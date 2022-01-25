@@ -1,5 +1,5 @@
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/yqz1280/yqz1280/master/code.gif" width="700" height="320" style="max-width:100%;">
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/yqz1280/yqz1280/master/code.gif" width="1024" height="450" style="max-width:100%;">
 
 
 #### Hello, my name is Omar Quiroga Zárate
