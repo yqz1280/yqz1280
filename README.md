@@ -1,8 +1,11 @@
+![https://github.com/yqz1280](https://raw.githubusercontent.com/yqz1280/yqz1280/master/code.gif)
+
+
 #### Hello, my name is Omar Quiroga Zárate
 ### Android Engineer
 ### Kotlin 👋
 
-![https://github.com/yqz1280](https://raw.githubusercontent.com/yqz1280/yqz1280/master/github_profile.png)
+
 
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
