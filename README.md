@@ -1,11 +1,8 @@
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/yqz1280/yqz1280/master/code.gif" width="720" height="320" style="max-width:100%;">
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/yqz1280/yqz1280/master/code.gif" width="1024" height="320" style="max-width:100%;">
 
 
-#### Hello, my name is Omar Quiroga Zárate
-### Android Engineer
-### Kotlin 👋
-
+<h1 align="center">Hi 👋, I'm <a href=(https://www.linkedin.com/in/omar-quiroga-6a757a1a9)target="_blank">Omar Quiroga </a></h1>
 
 
 
