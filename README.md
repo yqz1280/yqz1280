@@ -2,7 +2,7 @@
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/yqz1280/yqz1280/master/code.gif" width="1024" height="420" style="max-width:100%;">
 
 
-<h1 align="center">Hi 👋, I'm <a href=https://www.linkedin.com/in/omar-quiroga-6a757a1a9 target="_blank">Omar Quiroga </a></h1>
+<h1 align="center">Hola 👋, Soy <a href=https://www.linkedin.com/in/omar-quiroga-6a757a1a9 target="_blank">Omar Quiroga </a></h1>
 
 
 
