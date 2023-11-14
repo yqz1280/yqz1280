@@ -4,7 +4,7 @@
 
 <h1 align="center">Hola 👋, Soy <a href=https://www.linkedin.com/in/omar-quiroga-6a757a1a9 target="_blank">Omar Quiroga </a></h1>
 
-<h3 align="left">Un apasionado desarrollador autodidacta de Android y Kotlin. Mi pasión por el software es la de trabajar en proyectos que ayuden a las personas a tener una    mejor calidad de vida, poder rodearme de grandes profesionales y todo el conocimiento posible para asi llegar a consolidar mi identidad profesional.</h3>
+<h3 align="left">Un apasionado de los datos y el Machine Learning. Mi pasión por el software es la de trabajar en proyectos  que contribuyan a mejorar la calidad de vida de las personas, poder rodearme de grandes profesionales y de todo el conocimiento posible que me ayude potenciar mis habilidades técnicas.</h3>
 
 <h3>Lenguajes & herramientas:</h3>
 
