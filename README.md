@@ -21,7 +21,6 @@ encontrando equilibrio en la diversidad de enfoques y perspectivas.</h3>
 ![Bi](https://img.shields.io/badge/Metabase-509EE3.svg?style=for-the-badge&logo=Metabase&logoColor=white)
 ![Mautic](https://img.shields.io/badge/Mautic-4E5E9E.svg?style=for-the-badge&logo=Mautic&logoColor=white)
 </br>
-
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
