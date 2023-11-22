@@ -4,7 +4,11 @@
 
 <h1 align="center">Hola 👋, Soy <a href=https://www.linkedin.com/in/omar-quiroga-6a757a1a9 target="_blank">Omar Quiroga </a></h1>
 
-<h3 align="left">Un apasionado de los datos y el Machine Learning. Mi pasión por el software es la de trabajar en proyectos  que contribuyan a mejorar la calidad de vida de las personas, poder rodearme de grandes profesionales y de todo el conocimiento posible que me ayude potenciar mis habilidades técnicas.</h3>
+<h3 align="left">Un apasionado de los datos y el Machine Learning. Mi pasión por el software es la de trabajar
+en proyectos que contribuyan a mejorar la calidad de vida de las personas, poder rodearme
+de grandes profesionales y de todo el conocimiento posible que me ayude potenciar mis
+habilidades técnicas. Disfruto tanto del trabajo en equipo como de los desafíos individuales,
+encontrando equilibrio en la diversidad de enfoques y perspectivas.</h3>
 
 <h3>Lenguajes & herramientas:</h3>
 
